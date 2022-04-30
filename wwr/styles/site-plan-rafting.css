@@ -6,10 +6,10 @@ Fonts are separated by a | */
 
 :root {
   /* change the values below to your colors from your palette */
-  --primary-color: #396E94   ;
-  --secondary-color: #001d3d ;
-  --accent1-color: #003566;
-  --accent2-color: #ffc300;
+  --primary-color: #2f94c6   ;
+  --secondary-color: #277ba5;
+  --accent1-color: #1f6284;
+  --accent2-color: #e0b700;
 
   /* change the values below to your chosen font(s) */
   --heading-font: "Tapestry";
