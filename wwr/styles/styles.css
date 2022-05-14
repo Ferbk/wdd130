@@ -36,12 +36,12 @@ div {
    }
    .book {
     text-align: center;
-    color: #000000;
+    color: #fcfbfb;
     text-decoration: none;
    }
    .join {
     text-align: center;
-    color: #000000;
+    color: #fcfbfb;
     text-decoration: none;
    }
    .book:hover {
@@ -53,10 +53,10 @@ div {
     color: #F6F740;
    }
    #background {
-    background-color: rgb(0, 0, 0);
+    background-color: aliceblue;
    }
    .msg {
-    background-color: #000000;
+    background-color: #fcfbfb;
   
    }
    footer {
@@ -70,7 +70,7 @@ div {
    }
    nav a {
     text-align: center;
-    color: #000000;
+    color: #fcfbfb;
     text-decoration: none;
 }    
    #hero-img {
@@ -81,10 +81,10 @@ div {
     color: #023E8A;
    }
    .msg h2 {
-    color: black;
+    color: white;
    }
    .msg p {
-    color: black;
+    color: white;
    }
    footer h3 {
     color: rgb(22, 21, 21);
