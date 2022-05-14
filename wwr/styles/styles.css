@@ -1,5 +1,11 @@
+p.ex1 {
+    max-width: 1600px;
+  }
+  p {
+    margin: 0 auto;
+  }
 body {
-    background-color: #fcfbfb; 
+    background-color: #ce2828; 
 }
 header {
     background-color:rgba(20,30,13, .7);
