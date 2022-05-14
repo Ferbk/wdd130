@@ -25,23 +25,23 @@ div {
     height: 725px;
    }
    body {
-    background-color: #fcfbfb;
+    background-color: #000000;
    }
    header {
     background-color:rgba(20,30,13, .7);
    }
    nav a:hover {
     background-color: black;
-    color: #d9c2a3;
+    color: #000000;
    }
    .book {
     text-align: center;
-    color: #fcfbfb;
+    color: #000000;
     text-decoration: none;
    }
    .join {
     text-align: center;
-    color: #fcfbfb;
+    color: #000000;
     text-decoration: none;
    }
    .book:hover {
@@ -53,10 +53,10 @@ div {
     color: #F6F740;
    }
    #background {
-    background-color: aliceblue;
+    background-color: rgb(0, 0, 0);
    }
    .msg {
-    background-color: #fcfbfb;
+    background-color: #000000;
   
    }
    footer {
@@ -70,7 +70,7 @@ div {
    }
    nav a {
     text-align: center;
-    color: #fcfbfb;
+    color: #000000;
     text-decoration: none;
 }    
    #hero-img {
@@ -81,10 +81,10 @@ div {
     color: #023E8A;
    }
    .msg h2 {
-    color: white;
+    color: black;
    }
    .msg p {
-    color: white;
+    color: black;
    }
    footer h3 {
     color: rgb(22, 21, 21);
