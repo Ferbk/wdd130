@@ -25,14 +25,14 @@ div {
     height: 725px;
    }
    body {
-    background-color: #000000;
+    background-color: #fcfbfb;
    }
    header {
     background-color:rgba(20,30,13, .7);
    }
    nav a:hover {
     background-color: black;
-    color: #000000;
+    color: #d9c2a3;
    }
    .book {
     text-align: center;
@@ -75,7 +75,9 @@ div {
 }    
    #hero-img {
     width: 100%;
- 
+   }
+   .home-title {
+    color: #023E8A;
    }
    h4 {
     color: #023E8A;
@@ -91,7 +93,7 @@ div {
    }
    footer a {
     text-align: center;
-    color: #000000;
+    color: #fcfbfb;
     text-decoration: none;
    }
    footer a:hover {
