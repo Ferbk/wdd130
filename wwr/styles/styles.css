@@ -113,27 +113,7 @@ div {
    footer h3 a {
     text-decoration: underline;
    }
-   html{
-    background-color: #dea90b;
-    align-content: center;
-    }
-    .content {
-    max-width: 960px;
-    margin-top: 0;
-    margin-bottom: 0;
-    margin-left: center;
-    margin-right: center;
-    background-color: white;
-    }
-    body{
-    max-width: 960px;
-    margin-top: 0;
-    margin-bottom: 0;
-    margin-left: center;
-    margin-right: center;
-    background-color: white;
-    padding: 1em;
-    }
+  
     nav {
     line-height: 3em;
     text-align: center;
