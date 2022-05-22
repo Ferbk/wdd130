@@ -180,44 +180,4 @@ div {
     main section img {
     box-sizing: border-box;
     }
-  h4 {
-    color: #023E8A;
-    color: #d9c2a3;
-   }
-   .msg h2 {
-    background-color: rgb(185, 140, 16);
-    color: #00B4D8;
-    text-decoration: none;
-   }
-   .msg p {
-    background-color: rgb(185, 140, 16);
-    color: #F6F740;
-    text-decoration: none;
-  }
-  .content {
-    max-width: 960px;
-    margin-top: 0;
-    margin-bottom: 0;
-    margin-left: auto;
-    margin-right: auto;
-    background-color: white;
-   }
- 
-   nav {
-    line-height: 3em;
-    text-align: center;
-    font-size: 1.3em;
-  }
-  
-   nav a:link, nav a:visited {
-    color: #F71735;
-   }
-   nav a:hover {
-    color: #011627;
-    background-color: #41EAD4;
-    text-decoration: none;
-   }
-   header {
-    display: grid;
-    grid-template-columns: 110px auto;
-  }
+
