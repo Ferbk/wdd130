@@ -165,7 +165,7 @@ div {
     }
     .msg p {
     font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
-    font-size: 8em;
+    font-size: .8em;
     padding-bottom: 15px;
     }
     .msg {
@@ -190,7 +190,7 @@ div {
     padding-top: 10px;
     }
      footer {
-    
+    padding: 25px 50px;
     margin-top: 200px;
     }
     footer .social img {
