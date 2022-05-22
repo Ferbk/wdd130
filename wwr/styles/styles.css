@@ -163,11 +163,7 @@ div {
     font-size: 18px;
     border-radius: 5px;
     }
-    .msg p {
-    font-family: sans-serif;
-    font-size: .8em;
-    padding-bottom: 15px;
-    }
+  
     .msg {
     background-color: #6f7364;
     line-height: 1.5em; 
