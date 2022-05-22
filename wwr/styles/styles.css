@@ -113,8 +113,10 @@ div {
    footer h3 a {
     text-decoration: underline;
    }
-  
-    nav {
+   html{
+    background-color: #dea90b;
+   }
+   nav {
     line-height: 3em;
     text-align: center;
     font-size: 1.3em;
