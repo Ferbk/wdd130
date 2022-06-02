@@ -62,6 +62,9 @@ div {
    }
    #background {
     background-color: aliceblue;
+    grid-column: 1/11;
+    grid-row: 4/9;
+  
    }
    .msg {
     background-color: #fcfbfb;
@@ -226,6 +229,18 @@ div {
     }
     .card-img, .mountains {
         width: 100%;
+    }
+    .rivers-card{
+        grid-column: 2/4;
+        grid-row: 2/3;
+    }
+    .camping-card{
+        grid-column: 5/7;
+        grid-row: 2/3;
+    }
+    .rapids-card{
+        grid-column: 8/10;
+        grid-row: 2/3;
     }
     footer {
         background-color: #6f7364;
