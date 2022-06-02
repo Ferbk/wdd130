@@ -261,8 +261,8 @@ div {
     }    
     .home-grid {
         display: grid;
-        grid-template-columns: repeat(5, 1fr);
-        grid-gap: 8em;
+        grid-template-columns: repeat(50, 1fr);
+        grid-gap: 1em;
     }
 
     @media screen and (max-width: 900px) {
