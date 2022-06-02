@@ -231,14 +231,17 @@ div {
         width: 100%;
     }
     .rivers-card{
+        width: 100%;
         grid-column: 2/4;
         grid-row: 2/3;
     }
     .camping-card{
+        width: 100%;
         grid-column: 5/7;
         grid-row: 2/3;
     }
     .rapids-card{
+        width: 100%;
         grid-column: 8/10;
         grid-row: 2/3;
     }
