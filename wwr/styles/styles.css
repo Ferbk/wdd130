@@ -268,7 +268,7 @@ div {
         align-items: center;
     }
     .rivers-card {
-        align-items: center;
+        align-items: left;
 
     }
 
@@ -278,7 +278,7 @@ div {
     }
 
     .rapids-card {
-        align-items: center;
+        align-items: right;
 
     }
     
