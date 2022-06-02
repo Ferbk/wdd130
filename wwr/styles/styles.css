@@ -267,6 +267,20 @@ div {
         grid-gap: 1em;
         align-items: center;
     }
+    .rivers-card {
+        align-items: center;
+
+    }
+
+    .camping-card {
+        align-items: center;
+
+    }
+
+    .rapids-card {
+        align-items: center;
+
+    }
     
     @media screen and (max-width: 900px) {
         #hero, .home-grid {
