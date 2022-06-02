@@ -267,7 +267,7 @@ div {
         grid-gap: 1em;
     }
     .rivers-card {
-        grid-column: 5/7;
+        grid-column: 2/4;
         grid-row: 2/3;
 
     }
@@ -277,7 +277,7 @@ div {
 
     }
     .rapids-card {
-        grid-column: 5/7;
+        grid-column: 8/10;
         grid-row: 2/3;
 
     }
