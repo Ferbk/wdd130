@@ -182,10 +182,6 @@ div {
     footer {
     padding: 25px 50px;
     margin-top: 200px;
-    background-color: #6f7364;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
     }
     footer .social img {
     padding-top: 15px;
@@ -234,22 +230,33 @@ div {
        
     }
     .rivers-card {
+        width: 100%;
         grid-column: 2/4;
         grid-row: 2/3;
     }
     .camping-card{
+        width: 100%;
         grid-column: 5/7;
         grid-row: 2/3;
     }
     .rapids-card{
+        width: 100%;
         grid-column: 8/10;
         grid-row: 2/3;
     }
     #background{
+        width: 100%;
         grid-column: 1/11;
         grid-row: 4/9;
     }
-
+    footer {
+        background-color: #6f7364;
+        padding: 25px 50px;
+        margin-top: 200px; 
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+    }
 
 
     @media screen and (max-width: 900px) {
