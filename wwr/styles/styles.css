@@ -266,7 +266,18 @@ div {
         grid-template-columns: repeat(5, 1fr);
         grid-gap: 1em;
     }
+    .rivers-card {
+        grid-row: 2/3;
 
+    }
+    .camping-card {
+        grid-row: 2/3;
+
+    }
+    .rapids-card {
+        grid-row: 2/3;
+
+    }
     @media screen and (max-width: 900px) {
         #hero, .home-grid {
             display: block;
