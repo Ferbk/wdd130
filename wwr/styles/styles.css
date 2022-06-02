@@ -267,15 +267,18 @@ div {
         grid-gap: 1em;
     }
     .rivers-card {
-        grid-row: 3/4;
+        grid-column: 4/10;
+        grid-row: 4/10;
 
     }
     .camping-card {
-        grid-row: 3/4;
+        grid-column: 6/10;
+        grid-row: 4/10;
 
     }
     .rapids-card {
-        grid-row: 3/4;
+        grid-column: 8/10;
+        grid-row: 4/10;
 
     }
     @media screen and (max-width: 900px) {
