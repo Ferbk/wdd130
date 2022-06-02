@@ -261,26 +261,8 @@ div {
         grid-row: 5/8;
         box-shadow: 5px 5px 10px #6f7364;
     }    
-    .home-grid {
-        display: grid;
-        grid-template-columns: repeat(5, 1fr);
-        grid-gap: 1em;
-        align-items: center;
-    }
-    .rivers-card {
-        align-items: left;
-
-    }
-
-    .camping-card {
-        align-items: center;
-
-    }
-
-    .rapids-card {
-        align-items: right;
-
-    }
+    
+  
     
     @media screen and (max-width: 900px) {
         #hero, .home-grid {
